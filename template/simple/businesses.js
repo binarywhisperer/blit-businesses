@@ -1,1 +1,5 @@
-console.log('This is a test!', true);
+$.getJSON('https://blacklatinoit.com/api/businesses', function(businesses){
+    $.each(businesses, function( business ){
+        $('#simple-businesses').innerHTML += '<li>' + business + '</li>';
+    });
+});
