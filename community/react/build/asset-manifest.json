@@ -1,14 +1,14 @@
 {
-  "main.css": "bryce-react/build/static/css/main.6637b8ab.chunk.css",
-  "main.js": "bryce-react/build/static/js/main.abd7b7df.chunk.js",
-  "main.js.map": "bryce-react/build/static/js/main.abd7b7df.chunk.js.map",
-  "static/js/1.82dafdb5.chunk.js": "bryce-react/build/static/js/1.82dafdb5.chunk.js",
-  "static/js/1.82dafdb5.chunk.js.map": "bryce-react/build/static/js/1.82dafdb5.chunk.js.map",
-  "runtime~main.js": "bryce-react/build/static/js/runtime~main.76391e4a.js",
-  "runtime~main.js.map": "bryce-react/build/static/js/runtime~main.76391e4a.js.map",
-  "static/media/logo.svg": "bryce-react/build/static/media/logo.5d5d9eef.svg",
-  "static/css/main.6637b8ab.chunk.css.map": "bryce-react/build/static/css/main.6637b8ab.chunk.css.map",
-  "index.html": "bryce-react/build/index.html",
-  "precache-manifest.b05363670338f7a300496c05abf74a84.js": "bryce-react/build/precache-manifest.b05363670338f7a300496c05abf74a84.js",
-  "service-worker.js": "bryce-react/build/service-worker.js"
+  "main.css": "/react/build/static/css/main.4b7df18b.chunk.css",
+  "main.js": "/react/build/static/js/main.ccd596cd.chunk.js",
+  "main.js.map": "/react/build/static/js/main.ccd596cd.chunk.js.map",
+  "static/js/1.82dafdb5.chunk.js": "/react/build/static/js/1.82dafdb5.chunk.js",
+  "static/js/1.82dafdb5.chunk.js.map": "/react/build/static/js/1.82dafdb5.chunk.js.map",
+  "runtime~main.js": "/react/build/static/js/runtime~main.74f0d8a5.js",
+  "runtime~main.js.map": "/react/build/static/js/runtime~main.74f0d8a5.js.map",
+  "static/media/logo.svg": "/react/build/static/media/logo.5d5d9eef.svg",
+  "static/css/main.4b7df18b.chunk.css.map": "/react/build/static/css/main.4b7df18b.chunk.css.map",
+  "index.html": "/react/build/index.html",
+  "precache-manifest.fa8ecdafda0fa7f95e55d0088e50f4de.js": "/react/build/precache-manifest.fa8ecdafda0fa7f95e55d0088e50f4de.js",
+  "service-worker.js": "/react/build/service-worker.js"
 }

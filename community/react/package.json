@@ -1,6 +1,6 @@
 {
   "name": "bryce-react",
-  "homepage":"react/build",
+  "homepage":"/react/build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
