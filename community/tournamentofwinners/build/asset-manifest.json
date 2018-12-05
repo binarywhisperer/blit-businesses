@@ -1,13 +1,13 @@
 {
   "main.css": "/tournamentofwinners/build/static/css/main.8eb9ed54.chunk.css",
-  "main.js": "/tournamentofwinners/build/static/js/main.54c74f05.chunk.js",
-  "main.js.map": "/tournamentofwinners/build/static/js/main.54c74f05.chunk.js.map",
+  "main.js": "/tournamentofwinners/build/static/js/main.465f8d8a.chunk.js",
+  "main.js.map": "/tournamentofwinners/build/static/js/main.465f8d8a.chunk.js.map",
   "static/js/1.324b6cf3.chunk.js": "/tournamentofwinners/build/static/js/1.324b6cf3.chunk.js",
   "static/js/1.324b6cf3.chunk.js.map": "/tournamentofwinners/build/static/js/1.324b6cf3.chunk.js.map",
   "runtime~main.js": "/tournamentofwinners/build/static/js/runtime~main.9e97a1de.js",
   "runtime~main.js.map": "/tournamentofwinners/build/static/js/runtime~main.9e97a1de.js.map",
   "static/css/main.8eb9ed54.chunk.css.map": "/tournamentofwinners/build/static/css/main.8eb9ed54.chunk.css.map",
   "index.html": "/tournamentofwinners/build/index.html",
-  "precache-manifest.c5aa28fb742ccfbdc2098bf5770014a3.js": "/tournamentofwinners/build/precache-manifest.c5aa28fb742ccfbdc2098bf5770014a3.js",
+  "precache-manifest.72d8b8a320858a80ee811212429da4f4.js": "/tournamentofwinners/build/precache-manifest.72d8b8a320858a80ee811212429da4f4.js",
   "service-worker.js": "/tournamentofwinners/build/service-worker.js"
 }
