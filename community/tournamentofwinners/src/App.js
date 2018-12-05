@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
@@ -13,26 +12,38 @@ class App extends Component {
 
     render() {
         return (
-            <div className="App">
-            <header className="App-header">
-            <img src={logo} className="App-logo" alt="logo" />
-            <p>
-            Edit <code>src/App.js</code> and save to reload.
-            </p>
-            <a
-        className="App-link"
-        href="https://reactjs.org"
-        target="_blank"
-        rel="noopener noreferrer"
-            >
-            Learn React
-        </a>
-        </header>
-        <h2>test</h2>
+            <div className="container">
+                <section className="hero">
+                    <div className="hero-body">
+                        <div className="container">
+                            <h1 className="title">
+                                BLiT Businesses
+                            </h1>
+                            <h2 className="subtitle">
+                                by Bryce
+                            </h2>
+                        </div>
+                    </div>
+                </section>
+                <hr/>
         {this.state.businesses.map(business =>
-        <li key={business.objectID}>
-        <a href={business.url}>{business['name']}</a>
-        </li>
+            <div className="card" key={business.objectID}>
+            <div className="card-content">
+            <p className="title">
+                {business['name']}
+            </p>
+            <p className="subtitle">
+                {business['owner']}
+            </p>
+            </div>
+            <footer className="card-footer">
+            <p className="card-footer-item">
+            <span>
+            <a href="{business.url}">View Website</a>
+            </span>
+            </p>
+            </footer>
+            </div>
         )}
     </div>
     );
