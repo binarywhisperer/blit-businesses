@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/your-name-here/build/precache-manifest.58cb83f96c5900beeecba0a590b18255.js"
+  "/mareco/build/precache-manifest.f4e6f4d6ce3c1d4bf0bce49b0e24cb30.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/your-name-here/build/index.html", {
+workbox.routing.registerNavigationRoute("/mareco/build/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
