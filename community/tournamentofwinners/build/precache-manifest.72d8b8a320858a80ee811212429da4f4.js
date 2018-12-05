@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "54c74f0542b12d76741d",
+    "revision": "465f8d8ab705a0f764a0",
     "url": "/tournamentofwinners/build/static/css/main.8eb9ed54.chunk.css"
   },
   {
-    "revision": "54c74f0542b12d76741d",
-    "url": "/tournamentofwinners/build/static/js/main.54c74f05.chunk.js"
+    "revision": "465f8d8ab705a0f764a0",
+    "url": "/tournamentofwinners/build/static/js/main.465f8d8a.chunk.js"
   },
   {
     "revision": "324b6cf3b56bf43378ce",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/tournamentofwinners/build/static/js/runtime~main.9e97a1de.js"
   },
   {
-    "revision": "dbf924985c6ffda2e458750eabdd3352",
+    "revision": "d2daf616fbe5e322df0309987c8a620b",
     "url": "/tournamentofwinners/build/index.html"
   }
 ];

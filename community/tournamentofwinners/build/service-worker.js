@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tournamentofwinners/build/precache-manifest.c5aa28fb742ccfbdc2098bf5770014a3.js"
+  "/tournamentofwinners/build/precache-manifest.72d8b8a320858a80ee811212429da4f4.js"
 );
 
 workbox.clientsClaim();
