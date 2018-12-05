@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/blit-app/build/static/js/runtime~main.057dee9f.js"
   },
   {
-    "revision": "6d77dc51349ffc714082",
-    "url": "/blit-app/build/static/js/main.6d77dc51.chunk.js"
+    "revision": "862f9b16aa70fbaced2b",
+    "url": "/blit-app/build/static/js/main.862f9b16.chunk.js"
   },
   {
     "revision": "82dafdb578ba27673946",
     "url": "/blit-app/build/static/js/1.82dafdb5.chunk.js"
   },
   {
-    "revision": "6d77dc51349ffc714082",
+    "revision": "862f9b16aa70fbaced2b",
     "url": "/blit-app/build/static/css/main.6a683e66.chunk.css"
   },
   {
-    "revision": "197eddf093bcc79affd5af01434fd16d",
+    "revision": "10f2963aefed026f911c76cef9fe9a68",
     "url": "/blit-app/build/index.html"
   }
 ];

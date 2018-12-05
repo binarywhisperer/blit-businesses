@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/blit-app/build/precache-manifest.6ec4ed65db4619a1e269308ab5ea4f8e.js"
+  "/blit-app/build/precache-manifest.69ce0e642e737c28e33a9891d99b6b75.js"
 );
 
 workbox.clientsClaim();
