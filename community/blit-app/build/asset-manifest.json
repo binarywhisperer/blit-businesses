@@ -1,0 +1,14 @@
+{
+  "main.css": "/blit-app/build/static/css/main.6a683e66.chunk.css",
+  "main.js": "/blit-app/build/static/js/main.6d77dc51.chunk.js",
+  "main.js.map": "/blit-app/build/static/js/main.6d77dc51.chunk.js.map",
+  "static/js/1.82dafdb5.chunk.js": "/blit-app/build/static/js/1.82dafdb5.chunk.js",
+  "static/js/1.82dafdb5.chunk.js.map": "/blit-app/build/static/js/1.82dafdb5.chunk.js.map",
+  "runtime~main.js": "/blit-app/build/static/js/runtime~main.057dee9f.js",
+  "runtime~main.js.map": "/blit-app/build/static/js/runtime~main.057dee9f.js.map",
+  "static/media/logo.svg": "/blit-app/build/static/media/logo.5d5d9eef.svg",
+  "static/css/main.6a683e66.chunk.css.map": "/blit-app/build/static/css/main.6a683e66.chunk.css.map",
+  "index.html": "/blit-app/build/index.html",
+  "precache-manifest.6ec4ed65db4619a1e269308ab5ea4f8e.js": "/blit-app/build/precache-manifest.6ec4ed65db4619a1e269308ab5ea4f8e.js",
+  "service-worker.js": "/blit-app/build/service-worker.js"
+}
