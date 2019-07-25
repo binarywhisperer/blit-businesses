@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cce8147.chunk.css",
-    "main.js": "/static/js/main.ac507c65.chunk.js",
-    "main.js.map": "/static/js/main.ac507c65.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f4b0d21cdc7bfb6ae7e19d8125aebdaf.js": "/precache-manifest.f4b0d21cdc7bfb6ae7e19d8125aebdaf.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/melaatij/build/static/css/main.ba49ec77.chunk.css",
+    "main.js": "/melaatij/build/static/js/main.c4458666.chunk.js",
+    "main.js.map": "/melaatij/build/static/js/main.c4458666.chunk.js.map",
+    "runtime~main.js": "/melaatij/build/static/js/runtime~main.773d0707.js",
+    "runtime~main.js.map": "/melaatij/build/static/js/runtime~main.773d0707.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/melaatij/build/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/melaatij/build/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/melaatij/build/index.html",
+    "precache-manifest.0dfd39191f8c42fb47a2396a8e12d5c7.js": "/melaatij/build/precache-manifest.0dfd39191f8c42fb47a2396a8e12d5c7.js",
+    "service-worker.js": "/melaatij/build/service-worker.js",
+    "static/css/main.ba49ec77.chunk.css.map": "/melaatij/build/static/css/main.ba49ec77.chunk.css.map"
   }
 }

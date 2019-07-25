@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cce8147.chunk.css",
-    "main.js": "/static/js/main.e70fd9f8.chunk.js",
-    "main.js.map": "/static/js/main.e70fd9f8.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e2119bd8d12772353df6db6bfae6c36a.js": "/precache-manifest.e2119bd8d12772353df6db6bfae6c36a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/juwan_moore/build/static/css/main.ba49ec77.chunk.css",
+    "main.js": "/juwan_moore/build/static/js/main.a7144729.chunk.js",
+    "main.js.map": "/juwan_moore/build/static/js/main.a7144729.chunk.js.map",
+    "runtime~main.js": "/juwan_moore/build/static/js/runtime~main.2c5a047a.js",
+    "runtime~main.js.map": "/juwan_moore/build/static/js/runtime~main.2c5a047a.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/juwan_moore/build/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/juwan_moore/build/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/juwan_moore/build/index.html",
+    "precache-manifest.90de7d01708c2df766778d0f7518ab0e.js": "/juwan_moore/build/precache-manifest.90de7d01708c2df766778d0f7518ab0e.js",
+    "service-worker.js": "/juwan_moore/build/service-worker.js",
+    "static/css/main.ba49ec77.chunk.css.map": "/juwan_moore/build/static/css/main.ba49ec77.chunk.css.map"
   }
 }
